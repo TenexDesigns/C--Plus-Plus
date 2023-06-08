@@ -54,6 +54,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
       Miscellaneous
 
 
+
 2. Software
 
       Compiler
